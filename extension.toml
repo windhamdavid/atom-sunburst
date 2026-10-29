@@ -1,0 +1,7 @@
+id = "sunburst-theme"
+name = "Sunburst"
+version = "0.1.0"
+schema_version = 1
+authors = ["David Windham"]
+description = "Sunburst theme for Zed, ported from the TextMate theme by Soryu via the original Atom theme."
+repository = "https://github.com/windhamdavid/atom-sunburst"
